@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tueap\\Documents\\Uni\\2ndSemester\\OOP\\test1\\Print\\Print.csproj",
+      "projectUniqueName": "C:\\Users\\tueap\\Documents\\Uni\\2ndSemester\\OOP\\OOPCodeNote\\test1\\Print\\Print.csproj",
       "projectName": "Print",
-      "projectPath": "C:\\Users\\tueap\\Documents\\Uni\\2ndSemester\\OOP\\test1\\Print\\Print.csproj",
+      "projectPath": "C:\\Users\\tueap\\Documents\\Uni\\2ndSemester\\OOP\\OOPCodeNote\\test1\\Print\\Print.csproj",
       "packagesPath": "C:\\Users\\tueap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tueap\\Documents\\Uni\\2ndSemester\\OOP\\test1\\Print\\obj\\",
+      "outputPath": "C:\\Users\\tueap\\Documents\\Uni\\2ndSemester\\OOP\\OOPCodeNote\\test1\\Print\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tueap\\AppData\\Roaming\\NuGet\\NuGet.Config"
