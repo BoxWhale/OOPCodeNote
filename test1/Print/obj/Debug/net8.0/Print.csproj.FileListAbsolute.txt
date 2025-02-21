@@ -1,0 +1,14 @@
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\bin\Debug\net8.0\Print.exe
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\bin\Debug\net8.0\Print.deps.json
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\bin\Debug\net8.0\Print.runtimeconfig.json
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\bin\Debug\net8.0\Print.dll
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\bin\Debug\net8.0\Print.pdb
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.AssemblyInfoInputs.cache
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.AssemblyInfo.cs
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.csproj.CoreCompileInputs.cache
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.dll
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\refint\Print.dll
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.pdb
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\Print.genruntimeconfig.cache
+C:\Users\tueap\Documents\Uni\2ndSemester\OOP\test1\Print\obj\Debug\net8.0\ref\Print.dll
